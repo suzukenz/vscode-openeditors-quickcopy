@@ -4,6 +4,10 @@ All notable changes to the "copy-open-editors" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.3]
+
+- Refactor codebase
+
 ## [0.0.2]
 
 - Group files with the same relative path
